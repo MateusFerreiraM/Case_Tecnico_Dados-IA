@@ -1,0 +1,391 @@
+data,filial_id,filial_nome,produto_canonico,valor_total_brl,volume_estimado_litros
+2025-03-01,F001,Posto Bandeirantes,Gasolina Comum,3115,495.23
+2025-03-03,F001,Posto Bandeirantes,Gasolina Comum,3331,529.57
+2025-03-04,F001,Posto Bandeirantes,Gasolina Comum,3208,510.02
+2025-03-05,F001,Posto Bandeirantes,Gasolina Comum,3423,544.2
+2025-03-06,F001,Posto Bandeirantes,Gasolina Comum,3300,524.64
+2025-03-07,F001,Posto Bandeirantes,Gasolina Comum,3177,505.09
+2025-03-08,F001,Posto Bandeirantes,Gasolina Comum,3392,539.27
+2025-03-10,F001,Posto Bandeirantes,Gasolina Comum,3269,519.71
+2025-03-11,F001,Posto Bandeirantes,Gasolina Comum,3146,500.16
+2025-03-12,F001,Posto Bandeirantes,Gasolina Comum,3362,534.5
+2025-03-13,F001,Posto Bandeirantes,Gasolina Comum,3238,514.79
+2025-03-14,F001,Posto Bandeirantes,Gasolina Comum,3115,495.23
+2025-03-15,F001,Posto Bandeirantes,Gasolina Comum,3331,529.57
+2025-03-17,F001,Posto Bandeirantes,Gasolina Comum,3208,510.02
+2025-03-18,F001,Posto Bandeirantes,Gasolina Comum,3423,544.2
+2025-03-19,F001,Posto Bandeirantes,Gasolina Comum,3300,524.64
+2025-03-20,F001,Posto Bandeirantes,Gasolina Comum,3177,505.09
+2025-03-21,F001,Posto Bandeirantes,Gasolina Comum,3392,539.27
+2025-03-22,F001,Posto Bandeirantes,Gasolina Comum,3269,519.71
+2025-03-24,F001,Posto Bandeirantes,Gasolina Comum,3146,500.16
+2025-03-25,F001,Posto Bandeirantes,Gasolina Comum,3362,534.5
+2025-03-26,F001,Posto Bandeirantes,Gasolina Comum,3238,514.79
+2025-03-27,F001,Posto Bandeirantes,Gasolina Comum,3115,495.23
+2025-03-28,F001,Posto Bandeirantes,Gasolina Comum,3331,529.57
+2025-03-29,F001,Posto Bandeirantes,Gasolina Comum,3208,510.02
+2025-03-31,F001,Posto Bandeirantes,Gasolina Comum,3424,544.36
+2025-03-01,F001,Posto Bandeirantes,Etanol,1558,379.08
+2025-03-03,F001,Posto Bandeirantes,Etanol,1692,411.68
+2025-03-04,F001,Posto Bandeirantes,Etanol,1615,392.94
+2025-03-05,F001,Posto Bandeirantes,Etanol,1538,374.21
+2025-03-06,F001,Posto Bandeirantes,Etanol,1673,407.06
+2025-03-07,F001,Posto Bandeirantes,Etanol,1596,388.32
+2025-03-08,F001,Posto Bandeirantes,Etanol,1519,369.59
+2025-03-10,F001,Posto Bandeirantes,Etanol,1654,402.43
+2025-03-11,F001,Posto Bandeirantes,Etanol,1577,383.7
+2025-03-12,F001,Posto Bandeirantes,Etanol,1712,416.55
+2025-03-13,F001,Posto Bandeirantes,Etanol,1635,397.81
+2025-03-14,F001,Posto Bandeirantes,Etanol,1558,379.08
+2025-03-15,F001,Posto Bandeirantes,Etanol,1692,411.68
+2025-03-17,F001,Posto Bandeirantes,Etanol,1615,392.94
+2025-03-18,F001,Posto Bandeirantes,Etanol,1538,374.21
+2025-03-19,F001,Posto Bandeirantes,Etanol,1673,407.06
+2025-03-20,F001,Posto Bandeirantes,Etanol,1596,388.32
+2025-03-21,F001,Posto Bandeirantes,Etanol,1519,369.59
+2025-03-22,F001,Posto Bandeirantes,Etanol,1654,402.43
+2025-03-24,F001,Posto Bandeirantes,Etanol,1577,383.7
+2025-03-25,F001,Posto Bandeirantes,Etanol,1712,416.55
+2025-03-26,F001,Posto Bandeirantes,Etanol,1635,397.81
+2025-03-27,F001,Posto Bandeirantes,Etanol,1558,379.08
+2025-03-28,F001,Posto Bandeirantes,Etanol,1692,411.68
+2025-03-29,F001,Posto Bandeirantes,Etanol,1615,392.94
+2025-03-31,F001,Posto Bandeirantes,Etanol,1597,388.56
+2025-03-01,F001,Posto Bandeirantes,Diesel S10,2323,355.2
+2025-03-03,F001,Posto Bandeirantes,Diesel S10,2231,341.13
+2025-03-04,F001,Posto Bandeirantes,Diesel S10,2392,365.75
+2025-03-05,F001,Posto Bandeirantes,Diesel S10,2300,351.68
+2025-03-06,F001,Posto Bandeirantes,Diesel S10,2462,376.45
+2025-03-07,F001,Posto Bandeirantes,Diesel S10,2369,362.23
+2025-03-08,F001,Posto Bandeirantes,Diesel S10,2277,348.17
+2025-03-10,F001,Posto Bandeirantes,Diesel S10,2438,372.78
+2025-03-11,F001,Posto Bandeirantes,Diesel S10,2346,358.72
+2025-03-12,F001,Posto Bandeirantes,Diesel S10,2254,344.65
+2025-03-13,F001,Posto Bandeirantes,Diesel S10,2415,369.27
+2025-03-14,F001,Posto Bandeirantes,Diesel S10,2323,355.2
+2025-03-15,F001,Posto Bandeirantes,Diesel S10,2231,341.13
+2025-03-17,F001,Posto Bandeirantes,Diesel S10,2392,365.75
+2025-03-18,F001,Posto Bandeirantes,Diesel S10,2300,351.68
+2025-03-19,F001,Posto Bandeirantes,Diesel S10,2462,376.45
+2025-03-20,F001,Posto Bandeirantes,Diesel S10,2369,362.23
+2025-03-21,F001,Posto Bandeirantes,Diesel S10,2277,348.17
+2025-03-22,F001,Posto Bandeirantes,Diesel S10,2438,372.78
+2025-03-24,F001,Posto Bandeirantes,Diesel S10,2346,358.72
+2025-03-25,F001,Posto Bandeirantes,Diesel S10,2254,344.65
+2025-03-26,F001,Posto Bandeirantes,Diesel S10,2415,369.27
+2025-03-27,F001,Posto Bandeirantes,Diesel S10,2323,355.2
+2025-03-28,F001,Posto Bandeirantes,Diesel S10,2231,341.13
+2025-03-29,F001,Posto Bandeirantes,Diesel S10,2392,365.75
+2025-03-31,F001,Posto Bandeirantes,Diesel S10,2440,373.09
+2025-03-01,F002,Auto Posto Central,Gasolina Comum,3365,534.98
+2025-03-03,F002,Auto Posto Central,Gasolina Comum,3608,573.61
+2025-03-04,F002,Auto Posto Central,Gasolina Comum,3469,551.51
+2025-03-05,F002,Auto Posto Central,Gasolina Comum,3712,590.14
+2025-03-06,F002,Auto Posto Central,Gasolina Comum,3573,568.04
+2025-03-07,F002,Auto Posto Central,Gasolina Comum,3435,546.1
+2025-03-08,F002,Auto Posto Central,Gasolina Comum,3677,584.58
+2025-03-10,F002,Auto Posto Central,Gasolina Comum,3538,562.48
+2025-03-11,F002,Auto Posto Central,Gasolina Comum,3400,540.54
+2025-03-12,F002,Auto Posto Central,Gasolina Comum,3642,579.01
+2025-03-13,F002,Auto Posto Central,Gasolina Comum,3504,557.07
+2025-03-14,F002,Auto Posto Central,Gasolina Comum,3365,534.98
+2025-03-15,F002,Auto Posto Central,Gasolina Comum,3608,573.61
+2025-03-17,F002,Auto Posto Central,Gasolina Comum,3469,551.51
+2025-03-18,F002,Auto Posto Central,Gasolina Comum,3712,590.14
+2025-03-19,F002,Auto Posto Central,Gasolina Comum,3573,568.04
+2025-03-20,F002,Auto Posto Central,Gasolina Comum,3435,546.1
+2025-03-21,F002,Auto Posto Central,Gasolina Comum,3677,584.58
+2025-03-22,F002,Auto Posto Central,Gasolina Comum,3538,562.48
+2025-03-24,F002,Auto Posto Central,Gasolina Comum,3400,540.54
+2025-03-25,F002,Auto Posto Central,Gasolina Comum,3642,579.01
+2025-03-26,F002,Auto Posto Central,Gasolina Comum,3504,557.07
+2025-03-27,F002,Auto Posto Central,Gasolina Comum,3365,534.98
+2025-03-28,F002,Auto Posto Central,Gasolina Comum,3608,573.61
+2025-03-29,F002,Auto Posto Central,Gasolina Comum,3469,551.51
+2025-03-31,F002,Auto Posto Central,Gasolina Comum,3712,590.14
+2025-03-01,F002,Auto Posto Central,Etanol,2150,523.11
+2025-03-03,F002,Auto Posto Central,Etanol,2338,568.86
+2025-03-04,F002,Auto Posto Central,Etanol,2231,542.82
+2025-03-05,F002,Auto Posto Central,Etanol,2123,516.55
+2025-03-06,F002,Auto Posto Central,Etanol,2312,562.53
+2025-03-07,F002,Auto Posto Central,Etanol,2204,536.25
+2025-03-08,F002,Auto Posto Central,Etanol,2096,509.98
+2025-03-10,F002,Auto Posto Central,Etanol,2285,555.96
+2025-03-11,F002,Auto Posto Central,Etanol,2177,529.68
+2025-03-12,F002,Auto Posto Central,Etanol,2365,575.43
+2025-03-13,F002,Auto Posto Central,Etanol,2258,549.39
+2025-03-14,F002,Auto Posto Central,Etanol,2150,523.11
+2025-03-15,F002,Auto Posto Central,Etanol,2338,568.86
+2025-03-17,F002,Auto Posto Central,Etanol,2231,542.82
+2025-03-18,F002,Auto Posto Central,Etanol,2123,516.55
+2025-03-19,F002,Auto Posto Central,Etanol,2312,562.53
+2025-03-20,F002,Auto Posto Central,Etanol,2204,536.25
+2025-03-21,F002,Auto Posto Central,Etanol,2096,509.98
+2025-03-22,F002,Auto Posto Central,Etanol,2285,555.96
+2025-03-24,F002,Auto Posto Central,Etanol,2177,529.68
+2025-03-25,F002,Auto Posto Central,Etanol,2365,575.43
+2025-03-26,F002,Auto Posto Central,Etanol,2258,549.39
+2025-03-27,F002,Auto Posto Central,Etanol,2150,523.11
+2025-03-28,F002,Auto Posto Central,Etanol,2338,568.86
+2025-03-29,F002,Auto Posto Central,Etanol,2231,542.82
+2025-03-31,F002,Auto Posto Central,Etanol,2203,536.01
+2025-03-01,F002,Auto Posto Central,Diesel S10,2058,314.68
+2025-03-03,F002,Auto Posto Central,Diesel S10,1981,302.91
+2025-03-04,F002,Auto Posto Central,Diesel S10,2115,323.39
+2025-03-05,F002,Auto Posto Central,Diesel S10,2038,311.62
+2025-03-06,F002,Auto Posto Central,Diesel S10,2173,332.26
+2025-03-07,F002,Auto Posto Central,Diesel S10,2096,320.49
+2025-03-08,F002,Auto Posto Central,Diesel S10,2019,308.72
+2025-03-10,F002,Auto Posto Central,Diesel S10,2154,329.36
+2025-03-11,F002,Auto Posto Central,Diesel S10,2077,317.58
+2025-03-12,F002,Auto Posto Central,Diesel S10,2000,305.81
+2025-03-13,F002,Auto Posto Central,Diesel S10,2135,326.45
+2025-03-14,F002,Auto Posto Central,Diesel S10,2058,314.68
+2025-03-15,F002,Auto Posto Central,Diesel S10,1981,302.91
+2025-03-17,F002,Auto Posto Central,Diesel S10,2115,323.39
+2025-03-18,F002,Auto Posto Central,Diesel S10,2038,311.62
+2025-03-19,F002,Auto Posto Central,Diesel S10,2173,332.26
+2025-03-20,F002,Auto Posto Central,Diesel S10,2096,320.49
+2025-03-21,F002,Auto Posto Central,Diesel S10,2019,308.72
+2025-03-22,F002,Auto Posto Central,Diesel S10,2154,329.36
+2025-03-24,F002,Auto Posto Central,Diesel S10,2077,317.58
+2025-03-25,F002,Auto Posto Central,Diesel S10,2000,305.81
+2025-03-26,F002,Auto Posto Central,Diesel S10,2135,326.45
+2025-03-27,F002,Auto Posto Central,Diesel S10,2058,314.68
+2025-03-28,F002,Auto Posto Central,Diesel S10,1981,302.91
+2025-03-29,F002,Auto Posto Central,Diesel S10,2115,323.39
+2025-03-31,F002,Auto Posto Central,Diesel S10,2154,329.36
+2025-03-01,F003,Posto São João,Gasolina Comum,2596,412.72
+2025-03-03,F003,Posto São João,Gasolina Comum,2785,442.77
+2025-03-04,F003,Posto São João,Gasolina Comum,2677,425.6
+2025-03-05,F003,Posto São João,Gasolina Comum,2865,455.48
+2025-03-06,F003,Posto São João,Gasolina Comum,2758,438.47
+2025-03-07,F003,Posto São João,Gasolina Comum,2650,421.3
+2025-03-08,F003,Posto São João,Gasolina Comum,2838,451.19
+2025-03-10,F003,Posto São João,Gasolina Comum,2731,434.18
+2025-03-11,F003,Posto São João,Gasolina Comum,2623,417.01
+2025-03-12,F003,Posto São João,Gasolina Comum,2812,447.06
+2025-03-13,F003,Posto São João,Gasolina Comum,2704,429.89
+2025-03-14,F003,Posto São João,Gasolina Comum,2596,412.72
+2025-03-15,F003,Posto São João,Gasolina Comum,2785,442.77
+2025-03-17,F003,Posto São João,Gasolina Comum,2677,425.6
+2025-03-18,F003,Posto São João,Gasolina Comum,2865,455.48
+2025-03-19,F003,Posto São João,Gasolina Comum,2758,438.47
+2025-03-20,F003,Posto São João,Gasolina Comum,2650,421.3
+2025-03-21,F003,Posto São João,Gasolina Comum,2838,451.19
+2025-03-22,F003,Posto São João,Gasolina Comum,2731,434.18
+2025-03-24,F003,Posto São João,Gasolina Comum,2623,417.01
+2025-03-25,F003,Posto São João,Gasolina Comum,2812,447.06
+2025-03-26,F003,Posto São João,Gasolina Comum,2704,429.89
+2025-03-27,F003,Posto São João,Gasolina Comum,2596,412.72
+2025-03-28,F003,Posto São João,Gasolina Comum,2785,442.77
+2025-03-29,F003,Posto São João,Gasolina Comum,2677,425.6
+2025-03-31,F003,Posto São João,Gasolina Comum,2864,455.33
+2025-03-01,F003,Posto São João,Etanol,1415,344.28
+2025-03-03,F003,Posto São João,Etanol,1523,370.56
+2025-03-04,F003,Posto São João,Etanol,1462,355.72
+2025-03-05,F003,Posto São João,Etanol,1400,340.63
+2025-03-06,F003,Posto São João,Etanol,1508,366.91
+2025-03-07,F003,Posto São João,Etanol,1446,351.82
+2025-03-08,F003,Posto São João,Etanol,1385,336.98
+2025-03-10,F003,Posto São João,Etanol,1492,363.02
+2025-03-11,F003,Posto São João,Etanol,1431,348.18
+2025-03-12,F003,Posto São João,Etanol,1538,374.21
+2025-03-13,F003,Posto São João,Etanol,1477,359.37
+2025-03-14,F003,Posto São João,Etanol,1415,344.28
+2025-03-15,F003,Posto São João,Etanol,1523,370.56
+2025-03-17,F003,Posto São João,Etanol,1462,355.72
+2025-03-18,F003,Posto São João,Etanol,1400,340.63
+2025-03-19,F003,Posto São João,Etanol,1508,366.91
+2025-03-20,F003,Posto São João,Etanol,1446,351.82
+2025-03-21,F003,Posto São João,Etanol,1385,336.98
+2025-03-22,F003,Posto São João,Etanol,1492,363.02
+2025-03-24,F003,Posto São João,Etanol,1431,348.18
+2025-03-25,F003,Posto São João,Etanol,1538,374.21
+2025-03-26,F003,Posto São João,Etanol,1477,359.37
+2025-03-27,F003,Posto São João,Etanol,1415,344.28
+2025-03-28,F003,Posto São João,Etanol,1523,370.56
+2025-03-29,F003,Posto São João,Etanol,1462,355.72
+2025-03-31,F003,Posto São João,Etanol,1446,351.82
+2025-03-01,F003,Posto São João,Diesel S10,2546,389.3
+2025-03-03,F003,Posto São João,Diesel S10,2423,370.49
+2025-03-04,F003,Posto São João,Diesel S10,2638,403.36
+2025-03-05,F003,Posto São João,Diesel S10,2515,384.56
+2025-03-06,F003,Posto São João,Diesel S10,2731,417.58
+2025-03-07,F003,Posto São João,Diesel S10,2608,398.78
+2025-03-08,F003,Posto São João,Diesel S10,2485,379.97
+2025-03-10,F003,Posto São João,Diesel S10,2700,412.84
+2025-03-11,F003,Posto São João,Diesel S10,2577,394.04
+2025-03-12,F003,Posto São João,Diesel S10,2454,375.23
+2025-03-13,F003,Posto São João,Diesel S10,2669,408.1
+2025-03-14,F003,Posto São João,Diesel S10,2546,389.3
+2025-03-15,F003,Posto São João,Diesel S10,2423,370.49
+2025-03-17,F003,Posto São João,Diesel S10,2638,403.36
+2025-03-18,F003,Posto São João,Diesel S10,2515,384.56
+2025-03-19,F003,Posto São João,Diesel S10,2731,417.58
+2025-03-20,F003,Posto São João,Diesel S10,2608,398.78
+2025-03-21,F003,Posto São João,Diesel S10,2485,379.97
+2025-03-22,F003,Posto São João,Diesel S10,2700,412.84
+2025-03-24,F003,Posto São João,Diesel S10,2577,394.04
+2025-03-25,F003,Posto São João,Diesel S10,2454,375.23
+2025-03-26,F003,Posto São João,Diesel S10,2669,408.1
+2025-03-27,F003,Posto São João,Diesel S10,2546,389.3
+2025-03-28,F003,Posto São João,Diesel S10,2423,370.49
+2025-03-29,F003,Posto São João,Diesel S10,2638,403.36
+2025-03-31,F003,Posto São João,Diesel S10,2701,413.0
+2025-03-01,F004,Posto Ipiranga Express,Gasolina Comum,2423,385.21
+2025-03-03,F004,Posto Ipiranga Express,Gasolina Comum,2585,410.97
+2025-03-04,F004,Posto Ipiranga Express,Gasolina Comum,2492,396.18
+2025-03-05,F004,Posto Ipiranga Express,Gasolina Comum,2654,421.94
+2025-03-06,F004,Posto Ipiranga Express,Gasolina Comum,2562,407.31
+2025-03-07,F004,Posto Ipiranga Express,Gasolina Comum,2469,392.53
+2025-03-08,F004,Posto Ipiranga Express,Gasolina Comum,2631,418.28
+2025-03-10,F004,Posto Ipiranga Express,Gasolina Comum,2538,403.5
+2025-03-11,F004,Posto Ipiranga Express,Gasolina Comum,2446,388.87
+2025-03-12,F004,Posto Ipiranga Express,Gasolina Comum,2608,414.63
+2025-03-13,F004,Posto Ipiranga Express,Gasolina Comum,2515,399.84
+2025-03-14,F004,Posto Ipiranga Express,Gasolina Comum,2423,385.21
+2025-03-15,F004,Posto Ipiranga Express,Gasolina Comum,2585,410.97
+2025-03-17,F004,Posto Ipiranga Express,Gasolina Comum,2492,396.18
+2025-03-18,F004,Posto Ipiranga Express,Gasolina Comum,2654,421.94
+2025-03-19,F004,Posto Ipiranga Express,Gasolina Comum,2562,407.31
+2025-03-20,F004,Posto Ipiranga Express,Gasolina Comum,2469,392.53
+2025-03-21,F004,Posto Ipiranga Express,Gasolina Comum,2631,418.28
+2025-03-22,F004,Posto Ipiranga Express,Gasolina Comum,2538,403.5
+2025-03-24,F004,Posto Ipiranga Express,Gasolina Comum,2446,388.87
+2025-03-25,F004,Posto Ipiranga Express,Gasolina Comum,2608,414.63
+2025-03-26,F004,Posto Ipiranga Express,Gasolina Comum,2515,399.84
+2025-03-27,F004,Posto Ipiranga Express,Gasolina Comum,2423,385.21
+2025-03-28,F004,Posto Ipiranga Express,Gasolina Comum,2585,410.97
+2025-03-29,F004,Posto Ipiranga Express,Gasolina Comum,2492,396.18
+2025-03-31,F004,Posto Ipiranga Express,Gasolina Comum,2654,421.94
+2025-03-01,F004,Posto Ipiranga Express,Etanol,1673,407.06
+2025-03-03,F004,Posto Ipiranga Express,Etanol,1808,439.9
+2025-03-04,F004,Posto Ipiranga Express,Etanol,1731,421.17
+2025-03-05,F004,Posto Ipiranga Express,Etanol,1654,402.43
+2025-03-06,F004,Posto Ipiranga Express,Etanol,1788,435.04
+2025-03-07,F004,Posto Ipiranga Express,Etanol,1712,416.55
+2025-03-08,F004,Posto Ipiranga Express,Etanol,1635,397.81
+2025-03-10,F004,Posto Ipiranga Express,Etanol,1769,430.41
+2025-03-11,F004,Posto Ipiranga Express,Etanol,1692,411.68
+2025-03-12,F004,Posto Ipiranga Express,Etanol,1827,444.53
+2025-03-13,F004,Posto Ipiranga Express,Etanol,1750,425.79
+2025-03-14,F004,Posto Ipiranga Express,Etanol,1673,407.06
+2025-03-15,F004,Posto Ipiranga Express,Etanol,1808,439.9
+2025-03-17,F004,Posto Ipiranga Express,Etanol,1731,421.17
+2025-03-18,F004,Posto Ipiranga Express,Etanol,1654,402.43
+2025-03-19,F004,Posto Ipiranga Express,Etanol,1788,435.04
+2025-03-20,F004,Posto Ipiranga Express,Etanol,1712,416.55
+2025-03-21,F004,Posto Ipiranga Express,Etanol,1635,397.81
+2025-03-22,F004,Posto Ipiranga Express,Etanol,1769,430.41
+2025-03-24,F004,Posto Ipiranga Express,Etanol,1692,411.68
+2025-03-25,F004,Posto Ipiranga Express,Etanol,1827,444.53
+2025-03-26,F004,Posto Ipiranga Express,Etanol,1750,425.79
+2025-03-27,F004,Posto Ipiranga Express,Etanol,1673,407.06
+2025-03-28,F004,Posto Ipiranga Express,Etanol,1808,439.9
+2025-03-29,F004,Posto Ipiranga Express,Etanol,1731,421.17
+2025-03-31,F004,Posto Ipiranga Express,Etanol,1710,416.06
+2025-03-01,F004,Posto Ipiranga Express,Diesel S10,1831,279.97
+2025-03-03,F004,Posto Ipiranga Express,Diesel S10,1769,270.49
+2025-03-04,F004,Posto Ipiranga Express,Diesel S10,1877,287.0
+2025-03-05,F004,Posto Ipiranga Express,Diesel S10,1815,277.52
+2025-03-06,F004,Posto Ipiranga Express,Diesel S10,1923,294.04
+2025-03-07,F004,Posto Ipiranga Express,Diesel S10,1862,284.71
+2025-03-08,F004,Posto Ipiranga Express,Diesel S10,1800,275.23
+2025-03-10,F004,Posto Ipiranga Express,Diesel S10,1908,291.74
+2025-03-11,F004,Posto Ipiranga Express,Diesel S10,1846,282.26
+2025-03-12,F004,Posto Ipiranga Express,Diesel S10,1785,272.94
+2025-03-13,F004,Posto Ipiranga Express,Diesel S10,1892,289.3
+2025-03-14,F004,Posto Ipiranga Express,Diesel S10,1831,279.97
+2025-03-15,F004,Posto Ipiranga Express,Diesel S10,1769,270.49
+2025-03-17,F004,Posto Ipiranga Express,Diesel S10,1877,287.0
+2025-03-18,F004,Posto Ipiranga Express,Diesel S10,1815,277.52
+2025-03-19,F004,Posto Ipiranga Express,Diesel S10,1923,294.04
+2025-03-20,F004,Posto Ipiranga Express,Diesel S10,1862,284.71
+2025-03-21,F004,Posto Ipiranga Express,Diesel S10,1800,275.23
+2025-03-22,F004,Posto Ipiranga Express,Diesel S10,1908,291.74
+2025-03-24,F004,Posto Ipiranga Express,Diesel S10,1846,282.26
+2025-03-25,F004,Posto Ipiranga Express,Diesel S10,1785,272.94
+2025-03-26,F004,Posto Ipiranga Express,Diesel S10,1892,289.3
+2025-03-27,F004,Posto Ipiranga Express,Diesel S10,1831,279.97
+2025-03-28,F004,Posto Ipiranga Express,Diesel S10,1769,270.49
+2025-03-29,F004,Posto Ipiranga Express,Diesel S10,1877,287.0
+2025-03-31,F004,Posto Ipiranga Express,Diesel S10,1907,291.59
+2025-03-01,F005,Posto Litoral Norte,Gasolina Comum,4000,635.93
+2025-03-03,F005,Posto Litoral Norte,Gasolina Comum,4323,687.28
+2025-03-04,F005,Posto Litoral Norte,Gasolina Comum,4138,657.87
+2025-03-05,F005,Posto Litoral Norte,Gasolina Comum,4462,709.38
+2025-03-06,F005,Posto Litoral Norte,Gasolina Comum,4277,679.97
+2025-03-07,F005,Posto Litoral Norte,Gasolina Comum,4092,650.56
+2025-03-08,F005,Posto Litoral Norte,Gasolina Comum,4415,701.91
+2025-03-10,F005,Posto Litoral Norte,Gasolina Comum,4231,672.66
+2025-03-11,F005,Posto Litoral Norte,Gasolina Comum,4046,643.24
+2025-03-12,F005,Posto Litoral Norte,Gasolina Comum,4369,694.59
+2025-03-13,F005,Posto Litoral Norte,Gasolina Comum,4185,665.34
+2025-03-14,F005,Posto Litoral Norte,Gasolina Comum,4000,635.93
+2025-03-15,F005,Posto Litoral Norte,Gasolina Comum,4323,687.28
+2025-03-17,F005,Posto Litoral Norte,Gasolina Comum,4138,657.87
+2025-03-18,F005,Posto Litoral Norte,Gasolina Comum,4462,709.38
+2025-03-19,F005,Posto Litoral Norte,Gasolina Comum,4277,679.97
+2025-03-20,F005,Posto Litoral Norte,Gasolina Comum,4092,650.56
+2025-03-21,F005,Posto Litoral Norte,Gasolina Comum,4415,701.91
+2025-03-22,F005,Posto Litoral Norte,Gasolina Comum,4231,672.66
+2025-03-24,F005,Posto Litoral Norte,Gasolina Comum,4046,643.24
+2025-03-25,F005,Posto Litoral Norte,Gasolina Comum,4369,694.59
+2025-03-26,F005,Posto Litoral Norte,Gasolina Comum,4185,665.34
+2025-03-27,F005,Posto Litoral Norte,Gasolina Comum,4000,635.93
+2025-03-28,F005,Posto Litoral Norte,Gasolina Comum,4323,687.28
+2025-03-29,F005,Posto Litoral Norte,Gasolina Comum,4138,657.87
+2025-03-31,F005,Posto Litoral Norte,Gasolina Comum,4463,709.54
+2025-03-01,F005,Posto Litoral Norte,Etanol,1081,263.02
+2025-03-03,F005,Posto Litoral Norte,Etanol,1162,282.73
+2025-03-04,F005,Posto Litoral Norte,Etanol,1115,271.29
+2025-03-05,F005,Posto Litoral Norte,Etanol,1069,260.1
+2025-03-06,F005,Posto Litoral Norte,Etanol,1150,279.81
+2025-03-07,F005,Posto Litoral Norte,Etanol,1104,268.61
+2025-03-08,F005,Posto Litoral Norte,Etanol,1058,257.42
+2025-03-10,F005,Posto Litoral Norte,Etanol,1138,276.89
+2025-03-11,F005,Posto Litoral Norte,Etanol,1092,265.69
+2025-03-12,F005,Posto Litoral Norte,Etanol,1173,285.4
+2025-03-13,F005,Posto Litoral Norte,Etanol,1127,274.21
+2025-03-14,F005,Posto Litoral Norte,Etanol,1081,263.02
+2025-03-15,F005,Posto Litoral Norte,Etanol,1162,282.73
+2025-03-17,F005,Posto Litoral Norte,Etanol,1115,271.29
+2025-03-18,F005,Posto Litoral Norte,Etanol,1069,260.1
+2025-03-19,F005,Posto Litoral Norte,Etanol,1150,279.81
+2025-03-20,F005,Posto Litoral Norte,Etanol,1104,268.61
+2025-03-21,F005,Posto Litoral Norte,Etanol,1058,257.42
+2025-03-22,F005,Posto Litoral Norte,Etanol,1138,276.89
+2025-03-24,F005,Posto Litoral Norte,Etanol,1092,265.69
+2025-03-25,F005,Posto Litoral Norte,Etanol,1173,285.4
+2025-03-26,F005,Posto Litoral Norte,Etanol,1127,274.21
+2025-03-27,F005,Posto Litoral Norte,Etanol,1081,263.02
+2025-03-28,F005,Posto Litoral Norte,Etanol,1162,282.73
+2025-03-29,F005,Posto Litoral Norte,Etanol,1115,271.29
+2025-03-31,F005,Posto Litoral Norte,Etanol,1104,268.61
+2025-03-01,F005,Posto Litoral Norte,Diesel S10,1562,238.84
+2025-03-03,F005,Posto Litoral Norte,Diesel S10,1500,229.36
+2025-03-04,F005,Posto Litoral Norte,Diesel S10,1608,245.87
+2025-03-05,F005,Posto Litoral Norte,Diesel S10,1546,236.39
+2025-03-06,F005,Posto Litoral Norte,Diesel S10,1654,252.91
+2025-03-07,F005,Posto Litoral Norte,Diesel S10,1592,243.43
+2025-03-08,F005,Posto Litoral Norte,Diesel S10,1531,234.1
+2025-03-10,F005,Posto Litoral Norte,Diesel S10,1638,250.46
+2025-03-11,F005,Posto Litoral Norte,Diesel S10,1577,241.13
+2025-03-12,F005,Posto Litoral Norte,Diesel S10,1515,231.65
+2025-03-13,F005,Posto Litoral Norte,Diesel S10,1623,248.17
+2025-03-14,F005,Posto Litoral Norte,Diesel S10,1562,238.84
+2025-03-15,F005,Posto Litoral Norte,Diesel S10,1500,229.36
+2025-03-17,F005,Posto Litoral Norte,Diesel S10,1608,245.87
+2025-03-18,F005,Posto Litoral Norte,Diesel S10,1546,236.39
+2025-03-19,F005,Posto Litoral Norte,Diesel S10,1654,252.91
+2025-03-20,F005,Posto Litoral Norte,Diesel S10,1592,243.43
+2025-03-21,F005,Posto Litoral Norte,Diesel S10,1531,234.1
+2025-03-22,F005,Posto Litoral Norte,Diesel S10,1638,250.46
+2025-03-24,F005,Posto Litoral Norte,Diesel S10,1577,241.13
+2025-03-25,F005,Posto Litoral Norte,Diesel S10,1515,231.65
+2025-03-26,F005,Posto Litoral Norte,Diesel S10,1623,248.17
+2025-03-27,F005,Posto Litoral Norte,Diesel S10,1562,238.84
+2025-03-28,F005,Posto Litoral Norte,Diesel S10,1500,229.36
+2025-03-29,F005,Posto Litoral Norte,Diesel S10,1608,245.87
+2025-03-31,F005,Posto Litoral Norte,Diesel S10,1638,250.46

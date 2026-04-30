@@ -1,0 +1,10 @@
+.env
+.env.example
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+Documento de Raciocínio.docx
