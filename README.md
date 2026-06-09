@@ -6,7 +6,7 @@ Este projeto consolida, analisa e gera relatórios automáticos a partir de dado
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo-case-bridge.git
+   git clone https://github.com/MateusFerreiraM/Case_Tecnico_Dados-IA.git
    cd seu-repo-case-bridge
    ```
 
